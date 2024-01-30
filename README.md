@@ -1,2 +1,2 @@
 # Big-data
-repo for gig data class
+repo for big data class
